@@ -1,0 +1,41 @@
+channels:
+  - bioconda
+  - conda-forge
+  - r
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8.10
+  - snakemake=6.9.1
+  - mamba
+  - cookiecutter=1.7.3
+  - pathlib=1.0.1
+  - pandas=1.2.4
+  - ipython=7.23.1
+  - r-dplyr
+  - r-seurat=4.0.4
+  - parallel-fastq-dump
+  - r-tidyr
+  - r-magrittr
+  - r-remotes
+  - r-devtools
+  - r-argparse
+  - r-data.table
+  - scanpy
+  - scikit-learn
+  - statsmodels
+  - numba
+  - pytables
+  - python-igraph
+  - leidenalg
+  - louvain
+  - notebook
+  - intel tbb
+  - fastcluster
+  - pyyaml
+  - imagemagick
+  - anndata
+  - bioconductor-dropletutils
+  - r-biocmanager
+  - r-sctransform
+  - fit-sne
